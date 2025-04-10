@@ -9,9 +9,9 @@
 </div>
 
 <br />
-    <a href="./images/Screenshot (2).png" target="_blank">
-    <a href="./images/Screenshot (4).png" target="_blank">
-    <a href="./images/Screenshot (5).png" target="_blank">
+    <a href="./images/Screenshot (2).png" target="_blank"></a>
+    <a href="./images/Screenshot (4).png" target="_blank"></a>
+    <a href="./images/Screenshot (5).png" target="_blank"></a>
     <a href="./images/Screenshot (6).png" target="_blank">
     </a>
   <br />
