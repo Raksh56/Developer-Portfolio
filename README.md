@@ -1,7 +1,7 @@
 
 # 🚀 Developers Portfolio
 
-![Project Banner](https://cdn.discordapp.com/attachments/1306134415818231818/1359859437824774295/Screenshot_2.png?ex=67f9034a&is=67f7b1ca&hm=caa1e4cec3e230e2fafcdf2b6ef258ce1a0ad7abb56f05c379b61a01a16126a5&)
+![Project Banner](https://github.com/user-attachments/assets/a0ccf50a-4375-4f31-9351-82b6c62ff6dd)
 
 
 ---
@@ -10,11 +10,15 @@
 
 Here’s a sneak peek of the project:
 
-![Screenshot 2](https://media.discordapp.net/attachments/1306134415818231818/1359859438244073572/Screenshot_4.png?ex=67f9034b&is=67f7b1cb&hm=d6cd287f1bec704300ce6a4e03b21dbffb4b56612fd34922baa050b0bd265df6&=&format=webp&quality=lossless&width=1421&height=800)
 
-![Screenshot 1](https://media.discordapp.net/attachments/1306134415818231818/1359859438676345015/Screenshot_5.png?ex=67f9034b&is=67f7b1cb&hm=5e335df065629e067e8d4f9fc777c9c3405df33504b5e29416bfc324d2c71be5&=&format=webp&quality=lossless&width=1421&height=800)
+![Screenshot (4)](https://github.com/user-attachments/assets/92f2e6a1-9472-4e2c-9444-6b0b0eaeafc2)
 
-![Screenshot 2](https://media.discordapp.net/attachments/1306134415818231818/1359859439179399168/Screenshot_6.png?ex=67f9034b&is=67f7b1cb&hm=a8dd4191ff05d4848925858280da9b6f73264ccb81beeb36f478d2627eaa27a2&=&format=webp&quality=lossless&width=1421&height=800)
+![Screenshot (5)](https://github.com/user-attachments/assets/286ef514-6699-494f-8467-2d47712950f5)
+
+![Screenshot (6)](https://github.com/user-attachments/assets/8196e56d-082b-424d-8e1c-b4f1fc90461b)
+
+
+
 
 
 ---
